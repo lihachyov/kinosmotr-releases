@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Киносмотр для Mac</title>
+    <item>
+      <title>Версия 0.1</title>
+      <pubDate>Sun, 22 Nov 2026 13:53:05 GMT</pubDate>
+      <sparkle:version>126</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Первая версия для Mac: своя главная, локальная библиотека, превью кадра, «Пропустить интро».</p>]]></description>
+      <enclosure url="https://github.com/lihachyov/kinosmotr-releases/releases/download/mac-v0.1/Kinosmotr-0.1.dmg" type="application/octet-stream" sparkle:edSignature="+CawWe5KJSg6q3nF7ZPN1fE2Xht9s63ok9GQlFs3xWOnDK4e6RuhJ5CZOfy5U0264XssH5+pQ5ByrlmKUuT7Cw==" length="4092416"/>
+    </item>
+  </channel>
+</rss>
