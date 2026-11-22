@@ -3,6 +3,15 @@
   <channel>
     <title>Киносмотр для Mac</title>
     <item>
+      <title>Версия 0.2</title>
+      <pubDate>Sun, 22 Nov 2026 20:06:20 GMT</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Экран «Нет сигнала» на главной, если kino.pub не отвечает, — с кнопкой «Повторить».</p>]]></description>
+      <enclosure url="https://github.com/lihachyov/kinosmotr-releases/releases/download/mac-v0.2/Kinosmotr-0.2.dmg" type="application/octet-stream" sparkle:edSignature="qfhI+9M06AFaCNuZkrbTxjOkRtGEJbA0BIEjH0u0zuZmZggK+MaZAKL4msEi2dQeY348pGNG3I7f8NE0OxNdCA==" length="4093952"/>
+    </item>
+    <item>
       <title>Версия 0.1</title>
       <pubDate>Sun, 22 Nov 2026 13:53:05 GMT</pubDate>
       <sparkle:version>126</sparkle:version>
